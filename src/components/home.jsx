@@ -1,4 +1,4 @@
-import hacklogo from "/home/rishi5604/website/hack-website/src/assets/hacklogo.png"
+import hacklogo from "../assets/hacklogo.png"
 function Home(){
            return (
                <div className="home">
