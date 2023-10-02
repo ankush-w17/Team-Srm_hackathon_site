@@ -1,6 +1,6 @@
-import hackathonlogo from "/home/rishi5604/website/hack-website/src/assets/hacklogoWhite.png"
-import semicolonlogo from "/home/rishi5604/website/hack-website/src/assets/SemiColon.png"
-import ideathonlogo from "/home/rishi5604/website/hack-website/src/assets/Ideathon.png"
+import hackathonlogo from "../assets/hacklogoWhite.png"
+import semicolonlogo from "../assets/SemiColon.png"
+import ideathonlogo from "../assets/Ideathon.png"
 function Events(){
     return (
         <div className="Events-section">
