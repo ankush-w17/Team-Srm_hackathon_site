@@ -10,6 +10,7 @@ function App() {
          <Landing_page/>
          <Aboutus/>
          <Events/>
+         <Gallery/>
          <Index/>
     </div>
   );
