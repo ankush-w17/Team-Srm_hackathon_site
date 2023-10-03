@@ -2,10 +2,10 @@ import  { useState } from "react";
 import "./Gallery.css";
 function Gallery() {
     const images = [
-      "https://via.placeholder.com/400x300?text=Image+1",
-      "https://via.placeholder.com/400x300?text=Image+2",
-      "https://via.placeholder.com/400x300?text=Image+3",
-      "https://via.placeholder.com/400x300?text=Image+4",
+      "https://wrlandconservancy.org/wp-content/themes/western-reserve/img/placeholder.webp",
+      "https://www.egretta.org/gallery/menu_photos/landscape.jpg",
+      "https://beasleysjewelry.com/wp-content/uploads/2020/04/calm-1.jpg",
+      "https://woodspringtrust.org/wp-content/uploads/2013/04/placeholder.jpg",
     ];
   
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
